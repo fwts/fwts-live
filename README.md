@@ -1,0 +1,1 @@
+fwts-live is a bootable USB image that will automatically boot and run the Firmware Test Suite on both legacy BIOS as well as native UEFI Firmware (x86_64). The test results are stored on the USB device and can be analysed on the fly or later on another computer.
